@@ -1,0 +1,15 @@
+{
+    "restrictedApps":{
+        "apps":[
+            {
+                "app":"TRE",
+                "users":[
+                    "0000003A",
+                    "000023TA",
+                    "URRAB10"
+
+                ]
+            }
+        ]
+    }
+}
